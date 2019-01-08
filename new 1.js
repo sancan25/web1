@@ -123,11 +123,11 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
-      "https://wingsinsurance.blogspot.com/2018/12/home-insurance-tips-for-large-families.html",
-      "https://wingsinsurance.blogspot.com/2018/12/4-types-of-insurance-and-its-importance.html",
-      "https://wingsinsurance.blogspot.com/2018/12/5-important-types-of-travel-insurance.html",
-      "https://wingsinsurance.blogspot.com/2018/12/importance-and-benefits-of-travel.html",
-      "https://wingsinsurance.blogspot.com/2018/12/5-tips-for-buying-long-term-travel.html",
+      "https://www.batolapost.com/2018/12/Perangkat-Lunak-Komputer-yang-aman-untuk-Anak-anak.html",
+      "https://www.batolapost.com/2018/12/apakah-fungsi-konsep-inti-dalam-Pemrograman-Komputer.html",
+      "https://www.batolapost.com/2018/12/melihat-pertumbuhan-industri-pelatihan-komputer.htmll",
+      "https://www.batolapost.com/2018/12/tips-untuk-pemasaran-blog.html",
+      "https://www.batolapost.com/2018/12/solusi-pemasaran-internet-terbaik-tanpa-Pengeluaran-Berlebihan.html",
     ];
     /* Jika ingin menambah postingan, copas saja */
 
