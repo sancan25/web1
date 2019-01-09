@@ -133,13 +133,13 @@ function auto_safeconvert() {
             var encryptedUrl = Base64.encode(a_to_vi);
             var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2018/12/how-to-obtain-insurance-for-your.html"}
-if(x=="2"){xxx="/2018/12/5-tips-for-buying-long-term-travel.html"}
-if(x=="3"){xxx="/2018/12/the-clauses-of-insurance-policy.html"}
-if(x=="4"){xxx="/2018/12/all-about-personal-accident-insurance.html"}
-if(x=="5"){xxx="/2018/12/importance-and-benefits-of-travel.html"}
-if(x=="6"){xxx="/2018/12/5-important-types-of-travel-insurance.html"}
-if(x=="7"){xxx="/2018/12/4-types-of-insurance-and-its-importance.html"}a_to_ve[i].href="https://wingsinsurance.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2019/01/identifying-your-skin-type.html"}
+if(x=="2"){xxx="/2019/01/cancer-therapy-with-choice-medication.html"}
+if(x=="3"){xxx="/2019/01/precaution-to-be-taken-to-avoid.html"}
+if(x=="4"){xxx="/2019/01/some-of-risk-factors-associated-with.html"}
+if(x=="5"){xxx="/2019/01/fighting-leukemia.html"}
+if(x=="6"){xxx="/2019/01/symptoms-of-advanced-stage-prostate.html"}
+if(x=="7"){xxx="/2019/01/cancer-insurance-policy-right-for-you.html"}a_to_ve[i].href="https://www.health.batolapost.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
     var a_to_vj = document.getElementById("anonyminized");
     var a_to_vk = document.getElementById("found_links");
     if (a_to_vj) {
