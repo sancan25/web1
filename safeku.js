@@ -139,7 +139,8 @@ if(x=="3"){xxx="/2019/01/precaution-to-be-taken-to-avoid.html"}
 if(x=="4"){xxx="/2019/01/some-of-risk-factors-associated-with.html"}
 if(x=="5"){xxx="/2019/01/fighting-leukemia.html"}
 if(x=="6"){xxx="/2019/01/symptoms-of-advanced-stage-prostate.html"}
-if(x=="7"){xxx="/2019/01/cancer-insurance-policy-right-for-you.html"}a_to_ve[i].href="https://www.health.batolapost.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="7"){xxx="/2019/01/cancer-insurance-policy-right-for-you.html"}
+if(x=="8"){xxx="/2019/01/detoxification-and-constipation.html"}a_to_ve[i].href="https://www.health.batolapost.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
     var a_to_vj = document.getElementById("anonyminized");
     var a_to_vk = document.getElementById("found_links");
     if (a_to_vj) {
